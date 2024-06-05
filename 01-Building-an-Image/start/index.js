@@ -10,5 +10,5 @@ app.get('/', async (req, res) => {
 
 
 app.listen((3333), () => {
-    console.log("listening on port 3333!!!!!")
+    console.log("listening on port 3333!!")
 })
